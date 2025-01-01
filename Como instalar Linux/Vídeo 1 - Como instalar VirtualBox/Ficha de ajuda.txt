@@ -1,0 +1,17 @@
+Ficha de ajuda do vídeo 1
+
+	Quem tiver duvidas tem-nas aqui esclarecidas.
+	Bom, no vídeo eu falei de como a instalar no Linux mas aqui vou explicar como instalar em Windows e em MacOS.
+	
+	Windows: 
+		Instalação:
+			Clica neste link e depois de fazer download executa o ficheiro. Depois de o abrir segue os paços: https://download.virtualbox.org/virtualbox/7.1.4/VirtualBox-7.1.4-165100-Win.exe
+		
+	MacOS:
+		Utilizadores Intel:
+			Clica neste link e depois de fazer download executa o ficheiro. Depois de o abrir segue os paços: https://download.virtualbox.org/virtualbox/7.1.4/VirtualBox-7.1.4-165100-OSX.dmg
+			
+		Utilizadores Apple Silicon:
+			Clica neste link e depois de fazer download executa o ficheiro. Depois de o abrir segue os paços: https://download.virtualbox.org/virtualbox/7.1.4/VirtualBox-7.1.4-165100-macOSArm64.dmg
+	
+	
