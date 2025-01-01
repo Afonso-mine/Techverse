@@ -1,0 +1,3 @@
+Ficha de Ajuda Video 2
+
+Aqui é o mesmo para todos os sistemas. Só varia se quiserem outro sistema operativo, podem instalar MacO, Windows, Solaris e Linux, mas há muitas verções, por isso façam sempre download dos websites oficiais por uma questão de segurança.
